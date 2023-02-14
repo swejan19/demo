@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\SWQA\Build_package_2022_10_31\ssd_automation\.idea\csv-plugin.xml" timestamp="1672219974386" />
+    <file path="D:\SWQA\Build_package_2022_10_31\ssd_automation\.idea\encodings.xml" timestamp="1672219974386" />
+    <file path="D:\SWQA\Build_package_2022_10_31\ssd_automation\.idea\inspectionProfiles\Project_Default.xml" timestamp="1672219974386" />
+    <file path="D:\SWQA\Build_package_2022_10_31\ssd_automation\.idea\misc.xml" timestamp="1672294407151" />
+    <file path="D:\SWQA\Build_package_2022_10_31\ssd_automation\.idea\modules.xml" timestamp="1672219974386" />
+    <file path="D:\SWQA\Build_package_2022_10_31\ssd_automation\.idea\ssd_automation.iml" timestamp="1672294407021" />
+    <file path="D:\SWQA\Build_package_2022_10_31\ssd_automation\.idea\workspace.xml" timestamp="1675418783945" />
+  </project-files>
+</conversion>
+

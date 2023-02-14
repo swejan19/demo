@@ -1,0 +1,22 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="743" y="211" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="962" y="437" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="656" y="342" />
+    <location key="search.everywhere.popup.0.0.1920.1080" x="646" y="257" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="745" y="339" />
+    <location key="SettingsEditor.0.0.1920.1080" x="807" y="215" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="689" y="97" />
+    <location key="find.popup.0.0.1920.1080" x="660" y="190" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1898" height="278" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1898" height="278" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1898" height="278" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1898" height="278" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1898" height="405" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1898" height="405" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1898" height="405" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1898" height="405" />
+    <size key="find.popup.0.0.1920.1080" width="600" height="660" />
+    <size key="search.everywhere.popup.0.0.1920.1080" width="672" height="678" />
+  </component>
+</application>

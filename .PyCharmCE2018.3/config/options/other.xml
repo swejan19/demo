@@ -1,0 +1,40 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="PACKAGE_FILTER" value="camelo&#10;camelot&#10;python -m pip install --upgrade pip&#10;camelot-py&#10;tabula" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/PycharmProjects/TEST/pdf.py&#10;C:/Users/gytechs/PycharmProjects/TEST&#10;C:/Users/gytechs/Desktop&#10;D:/SWQA/Build_package_2022_10_31/ssd_firmware_dev_17&#10;D:/SWQA/Build_package_2022_10_31/ssd_automation&#10;D:/SWQA/Build_package_2022_10_31&#10;C:/Python36/venv (1)/venv/Scripts/python.exe&#10;D:/ssd_automation&#10;C:/Users/gytechs/PycharmProjects/untitled1/123.py&#10;C:/Users/gytechs/PycharmProjects/untitled1/pandas&#10;C:/Users/gytechs/PycharmProjects/untitled1/ss.py" />
+    <property name="file.gist.reindex.count" value="30375" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="lastTip" value="40" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Python36\venv (1)\venv\Scripts\python.exe" value="true" />
+        <entry key="C:\Users\gytechs\PycharmProjects\1\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Python36\venv (1)\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\gytechs\PycharmProjects\1\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Python36\venv (1)\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\gytechs\PycharmProjects\1\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\SWQA\Build_package_2022_10_31\.idea\Build_package_2022_10_31.iml" timestamp="1673349079343" />
+    <file path="D:\SWQA\Build_package_2022_10_31\.idea\encodings.xml" timestamp="1673348910410" />
+    <file path="D:\SWQA\Build_package_2022_10_31\.idea\misc.xml" timestamp="1673348910325" />
+    <file path="D:\SWQA\Build_package_2022_10_31\.idea\modules.xml" timestamp="1673348910455" />
+    <file path="D:\SWQA\Build_package_2022_10_31\.idea\vcs.xml" timestamp="1673349079385" />
+    <file path="D:\SWQA\Build_package_2022_10_31\.idea\workspace.xml" timestamp="1673349143073" />
+  </project-files>
+</conversion>
+

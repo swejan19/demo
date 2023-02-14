@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\gytechs\Desktop\.idea\Desktop.iml" timestamp="1675418784313" />
+    <file path="C:\Users\gytechs\Desktop\.idea\encodings.xml" timestamp="1675418700190" />
+    <file path="C:\Users\gytechs\Desktop\.idea\misc.xml" timestamp="1675418784415" />
+    <file path="C:\Users\gytechs\Desktop\.idea\modules.xml" timestamp="1675418700255" />
+    <file path="C:\Users\gytechs\Desktop\.idea\workspace.xml" timestamp="1675418784361" />
+  </project-files>
+</conversion>
+
